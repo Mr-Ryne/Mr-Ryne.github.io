@@ -1,0 +1,81 @@
+
+
+
+
+body {
+  margin-top:10%; 
+  color: #191919;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  background: #57a1cd;
+  background: -moz-linear-gradient(top, #57a1cd 0%, #d4e4ef 50%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #57a1cd), color-stop(70%, #d4e4ef));
+  background: -webkit-linear-gradient(top, #57a1cd 0%, #d4e4ef 50%);
+  background: -o-linear-gradient(top, #57a1cd 0%, #d4e4ef 50%);
+  background: -ms-linear-gradient(top, #57a1cd 0%, #d4e4ef 50%);
+  background: linear-gradient(to bottom, #57a1cd 0%, #d4e4ef 50%); }
+  @media (min-width: 768px) {
+    /* line 608, _global.scss */
+    body {
+      background-attachment: fixed;
+      font-size: 18px;
+      font-size: 1.8rem; } }
+
+
+ .media{
+ 	width:516px;
+ 	height:315px;
+ 	max-height:25%;
+ 	max-height:25%; 
+ }
+
+ nav{
+ 	position: fixed;
+ 	background-color:#57a1cd ;
+ 	width:100%;
+ 	top :0;
+ 	text-align:center;
+ }
+
+#top li{	
+	display:inline;
+}
+#top li a{	
+	float:left;
+	padding:20px;
+	text-decoration: none;	
+}
+
+ .referencias{
+ 	font-size:15px;
+ 	font-weight: bold;
+ }
+
+ .section_title{
+ 	color:#003e55;
+ 	font-size:60px; 
+ }
+
+h2{
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-family: "severance_the_sequelmedium", Georgia, serif;
+  font-size: 30px;
+  font-size: 3rem;
+  line-height: 1.25;
+  margin-bottom: 12px;
+  color: #191919; }
+
+  h3{
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-family: "chunk_rethunkregular", "Arial Black", Arial, sans-serif;
+  font-size: 26px;
+  font-size: 2.6rem;
+  line-height: 1.25;
+  margin-bottom: 12px;
+  color: #191919; }
+
